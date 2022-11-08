@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/priyadarshisaurabh6422/Demo%20Pipeline%20Project/_apis/build/status/saurabh6422.pipelines-java?branchName=main)](https://dev.azure.com/priyadarshisaurabh6422/Demo%20Pipeline%20Project/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
